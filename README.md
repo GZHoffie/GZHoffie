@@ -1,6 +1,6 @@
 ### Hi there, I'm Zhenhao! 👋
 
-I was an ECE undergraduate student at UM-SJTU Joint Institute, Shanghai Jiao Tong University and currently a Master of Computing candidate at National University of Singapore. I am interested in algorithm for big data and bioinformatics.
+I am a Ph.D. student at the Department of Computer Science, National University of Singapore. I'm focusing on algorithms for big data and Computational Biology.
 
 ### Github stats
 
